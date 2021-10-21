@@ -1,8 +1,8 @@
 # budget-tracker
-# Budget Tracker 
 
-Application Link: 
-Repository link:
+
+Application Link: https://budget-tracker-pro.herokuapp.com/
+Repository link:https://github.com/tomhabt/budget-tracker.git/
 
 ## Description
 
@@ -39,7 +39,7 @@ npm start
 
 ## Usage
 
-To use the app please view the following link: 
+To use the app please view the following link: https://budget-tracker-pro.herokuapp.com/
 ## License
     
 Licensed for use with the MIT license.
