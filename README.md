@@ -44,7 +44,7 @@ npm start
 To use the app please view the following link: https://budget-tracker-pro.herokuapp.com/
 ## License
     
-Licensed for use with the ![MIT license](https://user-images.githubusercontent.com/84083304/138532622-68bce628-2605-4676-8bbe-4bd414fe220b.png).
+Licensed for use with the ![MIT license](./LICENSE).
 
 ## Contributing
 
